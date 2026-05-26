@@ -1,0 +1,25 @@
+/* ==========================================================
+   6. TRANG TRÍ PHẦN GIỚI THIỆU SẢN PHẨM MỚI THÊM
+   ========================================================== */
+.product-info {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px dashed #cbd5e1; /* Đường gạch kẻ ngăn cách nhẹ nhàng */
+    text-align: left; /* Căn lề trái cho nội dung giới thiệu dễ đọc */
+    font-size: 0.95rem;
+}
+
+.product-info strong {
+    color: #1e3a8a; /* Màu xanh đậm làm nổi bật chữ tiêu đề */
+}
+
+.product-info p {
+    margin: 5px 0;
+    color: #334155; /* Màu xám đậm chuẩn WAVE giúp tương phản tốt với nền trắng */
+}
+
+.product-info .promo {
+    color: #15803d; /* Màu xanh lá cây đậm cho phần quà tặng (đạt chuẩn tương phản) */
+    font-weight: bold;
+    font-size: 0.9rem;
+}
